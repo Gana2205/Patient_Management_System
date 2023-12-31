@@ -1,4 +1,4 @@
-package com.gana.patientdto;
+package com.gana.patient.patientdto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,6 +1,6 @@
 package com.gana.patient.Exeption;
 
-import org.springframework.http.HttpStatus;
+import org.springframework.http.HttpStatus; 
 
 import lombok.Data;
 

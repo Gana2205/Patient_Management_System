@@ -8,7 +8,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
 import com.gana.patient.Exeption.NoDataFound;
-import com.gana.patientdto.Patient;
+import com.gana.patient.patientdto.Patient;
 
 @Repository
 public class PatientDaoImpl implements PatientDao {

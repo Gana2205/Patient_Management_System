@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.gana.patient.patientDao.PatientDao;
-import com.gana.patientdto.Patient;
+import com.gana.patient.patientdto.Patient;
 
 @Service
 public class PatientService {

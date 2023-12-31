@@ -5,7 +5,7 @@ import java.sql.SQLException;
 
 import org.springframework.jdbc.core.RowMapper;
 
-import com.gana.patientdto.Patient;
+import com.gana.patient.patientdto.Patient;
 
 public class PatientRowMapper implements RowMapper<Patient> {
 

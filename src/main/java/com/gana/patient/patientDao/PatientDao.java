@@ -2,7 +2,7 @@ package com.gana.patient.patientDao;
 
 import java.util.List;
 
-import com.gana.patientdto.Patient;
+import com.gana.patient.patientdto.Patient;
 
 public interface PatientDao {
 

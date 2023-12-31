@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.gana.patient.patientService.PatientService;
-import com.gana.patientdto.Patient;
+import com.gana.patient.patientdto.Patient;
 
 @RestController
 @RequestMapping("patient")
